@@ -1,2 +1,4 @@
 #!user/bin/python3.6
-print ("hola mundo")
+def main (msg):
+    print (msg)
+main("Hola gente")
